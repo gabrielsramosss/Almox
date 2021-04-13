@@ -5,9 +5,11 @@
 * Giovani Petri
 
 ## 1. Visão 
-_Forneça uma declaração que resuma o problema que sendo resolvido pelo sistema. O seguinte formato pode ser usado._
-
-O problema de <descrição do problema> afeta os <interessados afetados pelo problema> cujo impacto é <qual o impacto do problema?>. Neste contexto, uma solução de sucesso resultaria em <benefícios chaves trazidos por essa solução>.
+O problema de falta de atenção, afeta os almoxarifes já que a falta de organização do 
+patrimônio de uma empresa pode resultar em dias de prejuízo para a empresa. 
+Neste contexto, uma solução de sucesso resultaria em um controle maior sobre dos 
+os materiais da empresa, gerando agilidade nos processos, e também 
+análises para economia na hora da compra e venda dos serviços.
 
 ## 2. Envolvidos
 _Forneça uma descrição dos papéis ou persona envolvidos ou interessados no projeto._
