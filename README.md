@@ -1,9 +1,8 @@
-# NOME DO PRODUTO
+# 	AlmoxControl
 
 ## Equipe
-* Aluno 1
-* Aluno 2
-* Aluno 3
+* Gabriel Ramos
+* Giovani Petri
 
 ## 1. Visão 
 _Forneça uma declaração que resuma o problema que sendo resolvido pelo sistema. O seguinte formato pode ser usado._
