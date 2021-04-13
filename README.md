@@ -12,11 +12,11 @@ os materiais da empresa, gerando agilidade nos processos, e também
 análises para economia na hora da compra e venda dos serviços.
 
 ## 2. Envolvidos
-_Forneça uma descrição dos papéis ou persona envolvidos ou interessados no projeto._
 
 | Nome                      | Descrição     |
 | -------------             |:-------------:|
-| Nome do papel ou persona  | Descrição do papel ou persona |
+| Almoxarife  | Este usuário será responsável pelo controle de todos os materiais da empresa, realizando a compra e distribuição para os empregados. |
+| Empregado   | Este usuário é o responsável pela criação da requisição de materiais para o almoxarife. |
 
 ## 3. Product Backlog
 _O product backlog é basicamente uma lista priorizada de requisitos, estórias, features ou restrições. Coisas que o cliente ou usuário deseja descritas utilizando a terminologia do ambiente de negócios cliente ou usuário. Ele deverá conter no mínimo dez (20) estórias  de valor priorizadas pela sua importância._ 
