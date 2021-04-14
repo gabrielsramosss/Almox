@@ -23,5 +23,6 @@ _O product backlog é basicamente uma lista priorizada de requisitos, estórias,
 
 | No. | Nome do requisito      | Importância | Estória   | Critérios de Aceitação | Link para o Protótipo de Baixa Fidelidade  |
 | ----|:---------------------: |:----------: | :-------: | :--------------------: | :----------------------------------------: |
-|  I  | Tela para Login        |    1        | O usuário deve ter uma tela de login para diferenciar o tipo de conta que está acessando o sistema, se é um empregado ou almoxerife          | 1-) Somente pode ser feito Login quem estiver cadastrado no sistema 2-)Irá definir o tipo de acesso que o usuário vai ter no sistema conforme o nível de permissão do usuário                        |                                            |
+|  I  | Tela para Login        |    1        | O usuário deve ter uma tela de login para diferenciar o tipo de conta que está acessando o sistema, se é um empregado ou almoxerife          | 1-) Somente pode ser feito Login quem estiver cadastrado no sistema .
+2-)Irá definir o tipo de acesso que o usuário vai ter no sistema conforme o nível de permissão do usuário                        |                                            |
 
