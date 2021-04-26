@@ -34,4 +34,5 @@ _O product backlog é basicamente uma lista priorizada de requisitos, estórias,
 | IX  | Tela para gerar relatórios | 3 | Como almoxarife, gostaria de criar relatórios para o sistema | 1-) Nessa tela o almoxarife irá selecionar que tipo de relatório ele deseja, de material, requisição, fornecedor, etc. 2-) Depois de escolher qual relatório, o almoxarife vai escolher os filtros disponível para o relatório escolhido. | |
 | X   | Tela para exportação de relatório | 4 | Como o almoxarife, gostaria de gerar dashboards com os dados gerados pelo gerador de relatórios | 1-) Após gerar o relatório, essa tela irá exportar o relatório como planilha para ser importada no Power BI. | |
 | XI  | Tela para parametrizar o sistema | 2 |  Como almoxarife gostaria de ter uma tela de configuração de diversas opções | 1-) Ao iniciar a aplicação, terá uma tela para configurar o e-mail de alertas como exemplo, quando o estoque chegar na determinada quantidade estabelecida como mínima. | |
-| XII | Tela de fale conosco | 3 | Como empregado, ou fornecedor 
+| XII | Tela de fale conosco | 3 | Como empregado, gostaria de entrar em contato ou enviar alguma sugestão para a equipe do almoxarifado | 1-) Deverá ter uma tela de fale conosco onde é preenchido os campos para enviar a mensagem para a equipe | |
+| XIII| 
