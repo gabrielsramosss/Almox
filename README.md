@@ -34,5 +34,12 @@ _O product backlog é basicamente uma lista priorizada de requisitos, estórias,
 | IX  | Tela para gerar relatórios | 3 | Como almoxarife, gostaria de criar relatórios para o sistema | 1-) Nessa tela o almoxarife irá selecionar que tipo de relatório ele deseja, de material, requisição, fornecedor, etc. 2-) Depois de escolher qual relatório, o almoxarife vai escolher os filtros disponível para o relatório escolhido. | |
 | X   | Tela para exportação de relatório | 4 | Como o almoxarife, gostaria de gerar dashboards com os dados gerados pelo gerador de relatórios | 1-) Após gerar o relatório, essa tela irá exportar o relatório como planilha para ser importada no Power BI. | |
 | XI  | Tela para parametrizar o sistema | 2 |  Como almoxarife gostaria de ter uma tela de configuração de diversas opções | 1-) Ao iniciar a aplicação, terá uma tela para configurar o e-mail de alertas como exemplo, quando o estoque chegar na determinada quantidade estabelecida como mínima. | |
-| XII | Tela de fale conosco | 3 | Como empregado, gostaria de entrar em contato ou enviar alguma sugestão para a equipe do almoxarifado | 1-) Deverá ter uma tela de fale conosco onde é preenchido os campos para enviar a mensagem para a equipe | |
-| XIII| 
+| XII | Tela de fale conosco | 3 | Como empregado, gostaria de entrar em contato ou enviar alguma sugestão para a equipe do almoxarifado | 1-) Deverá ter uma tela de fale conosco onde é preenchido os campos para enviar a mensagem para a equipe. | |
+| XIII| Tela de devolução de material | 1 | Como empregado, gostaria de ter a opção de devolver material | 1-) Deverá ter uma tela onde o empregado da mesma forma que ele abre para requisitar, ele vai ter a tela de devolução. | |
+| XIV | Tela para cadastra o material | 1 | Como almoxarife, gostaria de registrar o material | 1-) Deverá ter uma tela onde cadastra o material com uma ID de identificação, nome e imagem| |
+| XV  | Tela para listar e consultar os materiais | 1 | Como almoxarife e empregado, gostaria de ter acesso a todos os equipamentos na empresa | 1-) A tela deverá ter um menu de pesquisa por nome de material, onde apresenta a imagem, ID e quantidade em estoque | |
+| XVI | Tela para cotação | 3 | Como almoxarife, gostaria de ter uma tela onde pudesse solicitar cotação para os fornecedores | 1-) A tela deverá ter um botão para enviar um arquivo para os fornecedores com os materiais para cotação | |
+| XVII|
+|XVIII|
+| XIX |
+| XX  |
