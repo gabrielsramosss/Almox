@@ -28,7 +28,7 @@ _O product backlog é basicamente uma lista priorizada de requisitos, estórias,
 | III | Tela de requisições | 1 | Como almoxarife, gostaria de visualizar todas as requisições pendentes para ter o controle do que ainda precisa ser separado | 1-) Deverá listar todas as requisições pendentes com sua data de pedido para que possa separar os materiais | | 
 | IV  | Tela para cadastrar fornecedores | 2 | Como almoxarife, gostaria de deixar registrado todos os fornecedores | 1-) Deverá ter campos de cadastro como CNPJ, nome fantasia, endereço, e-mail, telefone | |
 | V   | Tela para listar todos os fornecedores | 2 | Como almoxarife, gostaria de ter acesso ao catálogo de fornecedores | 1-) Irá listar todos os fornecedores com seus respectivos dados | |
-| VI  | Tela para listar todos os empregados | 2 | Como almoxarife, gostaria de saber o status do funcionário em relação a empresa | 1-) Irá listar os funcionários com seus dados, número do empregado (ID), nome completo, E-mail, CPF, setor, status. | |
+| VI  | API do google maps | 4 | Como almoxarife gostaria de ter acesso a localização do fornecedor | 1-) Irá ter um mapa onde é possível visualizar todos os endereços dos fornecedores | |
 | VII | Tela para listar histórico de compras | 2 | Como almoxarife, gostaria de saber todas as compras feitas no sistema | 1-) Deverá ter a data da compra, o almoxarife que fez a compra, o produto da compra com a quantidade e valor, fornecedor. | |
 | VIII| Tela para cadastrar todo equipamento | 5 | Como almoxarife, gostaria de ter controle de todos os equipamentos da empresa | 1-) Essa tela deverá cadastrar um número de patrimônio para cada equipamento | |
 | IX  | Tela para gerar relatórios | 3 | Como almoxarife, gostaria de criar relatórios para o sistema | 1-) Nessa tela o almoxarife irá selecionar que tipo de relatório ele deseja, de material, requisição, fornecedor, etc. 2-) Depois de escolher qual relatório, o almoxarife vai escolher os filtros disponível para o relatório escolhido. | |
@@ -39,7 +39,7 @@ _O product backlog é basicamente uma lista priorizada de requisitos, estórias,
 | XIV | Tela para cadastra o material | 1 | Como almoxarife, gostaria de registrar o material | 1-) Deverá ter uma tela onde cadastra o material com uma ID de identificação, nome e imagem| |
 | XV  | Tela para listar e consultar os materiais | 1 | Como almoxarife e empregado, gostaria de ter acesso a todos os equipamentos na empresa | 1-) A tela deverá ter um menu de pesquisa por nome de material, onde apresenta a imagem, ID e quantidade em estoque | |
 | XVI | Tela para cotação | 3 | Como almoxarife, gostaria de ter uma tela onde pudesse solicitar cotação para os fornecedores | 1-) A tela deverá ter um botão para enviar um arquivo para os fornecedores com os materiais para cotação | |
-| XVII|
-|XVIII|
-| XIX |
-| XX  |
+| XVII| Tela de cadastro de funcionário| 1 | Como almoxarife, iremos cadastrar os empregados para conseguir controlar a situação do empregado dentro da empresa | 1-) A tela deverá ter um cadastro do funcionário com o número do empregado (ID), nome completo, E-mail, CPF, setor, status.||
+|XVIII|Log out| 1 | Como usuário ou almoxarife, gostaria de poder sair do sistema | 1-) O user conectado deverá clicar na opção 'Sair' para fazer log out do sistema | |
+| XIX | Remover equipamento | 2| Como almoxarife, gostaria de poder remover um equipamento cadastrado | 1-) O almoxarife só poderar excluir o material caso não tenha nenhum lançamento no material cadastrado.| |
+| XX  | Tela para listar todos os empregados | 2 | Como almoxarife, gostaria de saber o status do funcionário em relação a empresa | 1-) Irá listar os funcionários com seus dados, número do empregado (ID), nome completo, E-mail, CPF, setor, status. | |
